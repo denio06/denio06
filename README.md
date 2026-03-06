@@ -1,5 +1,8 @@
 ### Olá! Seja bem-vindo ao meu GitHub! 👋
 
+💻 Desenvolvedor  
+🚀 Aprendendo novas tecnologias 
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denioo_santz/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vald%C3%AAnio-pantaleao-dos-santos-38b3a035a/)
 
