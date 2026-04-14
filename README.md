@@ -6,11 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denioo_santz/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vald%C3%AAnio-pantaleao-dos-santos-38b3a035a/)
 
-<div>
-<a href="https://github.com/denio06">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?denio06&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?denio06&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?denio06=denio06&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO)
 
 ### Tecnológias do dia-a-dia
 
