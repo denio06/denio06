@@ -8,11 +8,9 @@
 
 ## 📊 Meu GitHub Status
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=denio06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=denio06&show_icons=true&theme=radical&cache_seconds=1800" />
+</p>
 
 ### Tecnológias do dia-a-dia
 
