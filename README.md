@@ -6,11 +6,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/denioo_santz/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vald%C3%AAnio-pantaleao-dos-santos-38b3a035a/)
 
-## 📊 Meu GitHub Status
+## 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denio06&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
+<div align="left">
+  <img width="49%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=denio06&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="stats" />
+</div>
 
 ### Tecnológias do dia-a-dia
 
